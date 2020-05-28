@@ -6,5 +6,4 @@ def my_each(array)
   end
   
   
-  puts array 
 end
